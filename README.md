@@ -37,15 +37,12 @@ Table: Ad-level breakdown of time spent and conversions
 🛠️ Tools & Technologies
 
 Power BI for dashboard design and interactivity
-
 DAX for calculated metrics and dynamic filtering
-
 Data cleaning and transformation for consistency and usability
 
 ✅ Project Outcome
 
 Identified high-performing ad categories and platforms
-
 Revealed regional engagement hotspots (e.g., North America, Asia)
 Highlighted behavioral trends by gender and device type
 Enabled marketing teams to optimize ad spend and targeting strategies
