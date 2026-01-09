@@ -2,12 +2,12 @@
 
 @futureinterns
 
- ### Project Description 
+ ### 1.Project Description 
 
 Designed an interactive dashboard to analyze the performance of a multi-platform social media advertising campaign. The dashboard provides granular insights into user engagement, conversion rates, and 
 ad effectiveness across demographics, platforms, and regions.
 
-### Key Metrics & Focus Areas
+### 2.Key Metrics & Focus Areas
 Total Users: 500
 
 Clicks & Conversions segmented by:
@@ -20,7 +20,7 @@ Day of Week, Location, and Ad Category
 
 Impressions and engagement trends across Apparel, Electronics, Food & Beverage, and Gadgets
 
-### Visualizations Included
+### 3.Visualizations Included
 
 Horizontal Bar Chart: Clicks & conversions by ad ID and time spent
 
@@ -34,13 +34,13 @@ Waterfall Chart: Day-wise sales performance
 
 Table: Ad-level breakdown of time spent and conversions
 
-### Tools & Technologies
+### 4.Tools & Technologies
 
 Power BI for dashboard design and interactivity
 DAX for calculated metrics and dynamic filtering
 Data cleaning and transformation for consistency and usability
 
-### Project Outcome
+### 5.Project Outcome
 
 Identified high-performing ad categories and platforms
 Revealed regional engagement hotspots (e.g., North America, Asia)
